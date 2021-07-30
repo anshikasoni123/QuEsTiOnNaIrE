@@ -1,0 +1,63 @@
+1. Which one of the following is an Imperative Language?
+
+    1. HTML
+    2. CSS
+    3. Java Script
+
+Answer: 3. Java Script
+
+2. Which one of the following is a Declarative Language?
+
+    1. HTML
+    2. CSS
+    3. Java Script
+
+Answer: 1. HTML
+
+3. Name two uses of a DIV tag?
+
+Answer: 1. The DIV tag is used to create class in HTML.
+        2. The div tag is used in HTML to make divisions of content in the web page like text, images, header, footer, navigation bar, etc.
+
+4. What is the difference between relative positioning and absolute positioning in HTML?
+
+Answer:  relative position places an element relative to its current position without changing the layout around it, whereas absolute position 
+         places an element relative to its parent's position and changing the layout around it.
+
+5. What is the use of opacity in CSS?
+
+Answer: The opacity CSS property sets the opacity of an element. Opacity is the degree to which content behind an element is hidden, and is the 
+        opposite of transparency.
+
+6. Which is the programming language used in the React Native Framework?
+
+Answer: HTML and Java Script.
+
+7. Which online editor are we using for creating our apps in React Native Framework?
+
+Answer: Visual Studio Code and Expo.
+
+8. Write the steps to test your first designed app in the online editor on mobile?
+
+Answer: 1. Selection of the device.
+        2. Documentation Testing.
+        3. Functional testing.
+        4. Usability Testing.
+        5. UI (User Interface) testing.
+        6. Compatibility (Configuration) testing.
+        7. Performance testing.
+        8. Security testing.
+
+9. What is the use of the render function in React Native Framework?
+   
+Answer: render() function takes two arguments, HTML code and an HTML element. The purpose of the function is to display the specified HTML code inside the 
+        specified HTML element. The render method returns a description of what the DOM should look like. Render is that what exactly you want to trigger 
+        multiple times.
+
+10. What is the use of the return function in the React Native Framework?
+
+Answer: React efficiently updates the real DOM to match. Return is that which u want to Display.
+
+11. What are the various components in your first app that you designed?
+
+Answer: In my app everybody can upload maths questions and my app will give them answers of the questions. 
